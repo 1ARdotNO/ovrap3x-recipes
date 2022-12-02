@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of openlens for arm64</string>
 	<key>Identifier</key>
-	<string>android-studio.download.OpenLens</string>
+	<string>android-studio.download.OpenLens.applesilicon</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
