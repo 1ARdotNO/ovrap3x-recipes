@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of openlens for arm64</string>
 	<key>Identifier</key>
-	<string>com.github.ovrap3x-recipes.download.OpenLens.applesilicon</string>
+	<string>com.github.ovrap3x.download.OpenLens.applesilicon</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
