@@ -35,7 +35,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>android-studio.download.OpenLens.applesilicon</string>
+	<string>com.github.ovrap3x-recipes.download.OpenLens.applesilicon</string>
 	<key>Process</key>
 	<array>
 		<dict>
