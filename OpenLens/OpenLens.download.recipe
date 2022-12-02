@@ -11,7 +11,7 @@
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
-		<string>OpenLens</string>
+		<string>OpenLens-intel</string>
 		<key>PLATFORM_ARCH</key>
 		<string>amd64</string>
 	</dict>
