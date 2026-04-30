@@ -35,7 +35,7 @@
 	<key>MinimumVersion</key>
 	<string>2.3</string>
 	<key>ParentRecipe</key>
-	<string>com.github.1ardotno.download.Notepad++</string>
+	<string>com.github.1ardotno.download.NotepadPlusPlus</string>
 	<key>Process</key>
 	<array>
 		<dict>
